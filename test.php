@@ -1,0 +1,356 @@
+<?php
+use function False\true;
+
+// example of how to use advanced selector features
+include ('simple_html_dom.php');
+// Create DOM from URL
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392556';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392557';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392560';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392561';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392564';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392565';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392566';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392569';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392571';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392572';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392573';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392576';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392581';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392582';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392583';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392588';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392597';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392599';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392602';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392606';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392610';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392611';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392613';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392614';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392615';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392616';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392617';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392618';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392624';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392625';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392627';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392628';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392629';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392631';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392633';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392634';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392635';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392637';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392639';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392640';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392644';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392648';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392649';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392651';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392652';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392653';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392654';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392655';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392656';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392657';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392658';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392660';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392662';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392667';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392673';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392675';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392677';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392678';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392680';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392681';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392684';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392685';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392686';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392687';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392688';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392689';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392690';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392691';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392692';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392693';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392694';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392696';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392698';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392701';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392702';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392704';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392705';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392707';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392708';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392709';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392710';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392711';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392712';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392713';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392717';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392718';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392726';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392729';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392731';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392732';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392733';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392735';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392736';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392737';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392738';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392739';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392741';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392742';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392743';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392744';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392745';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392750';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392751';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392753';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392756';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392757';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392758';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392759';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392762';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392763';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392765';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392766';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392767';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392768';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392769';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392770';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392772';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392773';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392774';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392775';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392777';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550056708';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550056731';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550057016';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550057018';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550057025';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550057026';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550057029';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550072614';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550072625';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550072627';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550072646';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550072663';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550072687';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550072698';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550072731';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550072755';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550072772';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550072792';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550072796';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550072970';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550073056';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550073064';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550073328';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550073360';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550197298';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550197434';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550359029';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550359062';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550359077';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550359089';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550359102';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550359111';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550359144';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550359944';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550360696';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550360706';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550360750';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550360773';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550360821';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550362714';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550490494';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550490512';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550490531';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550490588';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550586438';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550672977';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550672992';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550673046';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550673066';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550673080';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550673105';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550673111';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550673117';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550673216';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550673229';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550673236';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550673238';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550673604';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550673608';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550673611';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550673615';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550673619';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550673627';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550674009';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550674141';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550676566';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550676763';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550676789';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550757974';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550764533';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550801691';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550801727';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550801745';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550801882';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=550802676';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=551631538';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=551631984';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=551631988';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=551632006';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=551632014';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=551632017';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=551641302';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=551645893';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078303';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078304';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078305';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078306';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078308';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078309';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078310';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078311';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078312';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078314';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078315';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078316';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078317';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078318';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078319';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078320';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078321';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078322';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078323';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078324';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078325';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078326';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078327';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078328';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078329';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078330';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078331';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078332';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078333';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078334';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078335';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078336';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078337';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078338';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078339';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078340';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078341';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078342';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078343';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078344';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078345';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078346';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078347';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078348';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078349';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078350';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078351';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078352';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078353';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078354';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078355';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078356';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078357';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078358';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078359';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078360';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078361';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078362';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078363';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078364';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078365';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078366';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078367';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078368';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078369';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078370';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078371';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078372';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078373';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078374';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078375';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078376';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078377';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078378';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078379';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078380';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078381';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078382';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078383';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078384';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078385';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078386';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078387';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078388';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078389';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078390';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078391';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078392';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078393';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078394';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078395';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552078396';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552087610';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552087611';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=552090769';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392720';
+$urls[] = 'http://natico.espwebsite.com/ProductDetails/?productId=7392725';
+
+
+// for ($x = 4895428; $x <= 560056708; $x++) {
+// // for ($x = 4895428; $x <= 4895438; $x++) {
+// //     echo $url ='http://natico.espwebsite.com/ProductDetails/?productId=550056708***';
+
+// //     echo "The number is: $x <br>";
+// // }
+
+// // exit();
+
+foreach ($urls as $url) {
+    set_time_limit(0);
+    echo $url;
+    echo "\n";
+    $html = file_get_html($url);
+    
+    $sku = $html->find('div.prodNum', 0)->plaintext;
+    if (! empty($sku)) {
+        $sku = trim(str_replace("&nbsp;", '', $sku));
+        
+        $arr['url'][$sku] = $url;
+        $arr['sku'][$sku] = $sku;
+    }else{
+        continue;
+    }
+    
+    
+    foreach ($html->find('th', 0) as $quantity) {
+        
+        if (! empty($quantity->plaintext)) {
+            $arr['quantity'][$sku] = array_map('trim', explode("                  ", $quantity->plaintext));
+        }
+    }
+    
+    foreach ($html->find('td', 0) as $quantity) {
+        
+        if (! empty($quantity->plaintext)) {
+            $arr['price'][$sku] = array_map('trim', explode("  	", $quantity->plaintext));
+        }
+    }
+}
+echo "<pre>";
+echo dirname(__FILE__).'/var/filename.txt';
+file_put_contents(dirname(__FILE__).'/var/filename.txt', print_r($arr, true));
+echo print_r($arr, true);
+echo "</pre>";
+
+?>
