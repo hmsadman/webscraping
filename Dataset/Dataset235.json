@@ -1,0 +1,8402 @@
+[
+  {
+    "price": "BDT\n60,000",
+    "address": "Block D, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,500",
+    "address": "Anando Road, Ibrahimpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Block D, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Ibrahimpur Bazar Road, Ibrahimpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,230   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "North Ibrahimpur, Ibrahimpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "North Ibrahimpur, Ibrahimpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,500",
+    "address": "North Ibrahimpur, Ibrahimpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Monipuri School Road, Ibrahimpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "East Rampura, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n45,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n90,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Naya Nagar , Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Nikunja 2, Nikunja, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n45,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Nikunja 2, Nikunja, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,500",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,500",
+    "address": "Block D, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Block F, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n55,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "Kalabagan 2nd Lane, Kalabagan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Block D, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,450   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "Block D, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,500",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,500",
+    "address": "Block D, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Jigatola, Hazaribag, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,500",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n21,000",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Jigatola, Hazaribag, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,500",
+    "address": "Block D, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n55,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "Kalabagan 2nd Lane, Kalabagan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Block D, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,450   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "Block D, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,500",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,500",
+    "address": "Block D, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Jigatola, Hazaribag, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,500",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n21,000",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Jigatola, Hazaribag, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,500",
+    "address": "Block D, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,500",
+    "address": "Block F, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,500",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,500",
+    "address": "Block F, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,500",
+    "address": "Block F, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,500",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "Block C, Khilgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "South Jatra Bari, Jatra Bari, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "Jamtola, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "South Jatra Bari, Jatra Bari, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "South Jatra Bari, Jatra Bari, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,500",
+    "address": "Bash Bari Road, Mohammadpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Purana Paltan, Motijheel, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,535   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Section 10, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Jamtola, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "West Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 880   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "West Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,355   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "Section 10, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Nurjahan Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,000",
+    "address": "South Badda, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Goaltek, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,500",
+    "address": "Block F, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,500",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,500",
+    "address": "Block F, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,500",
+    "address": "Block F, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,500",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "Block C, Khilgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "South Jatra Bari, Jatra Bari, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "Jamtola, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "South Jatra Bari, Jatra Bari, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "South Jatra Bari, Jatra Bari, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,500",
+    "address": "Bash Bari Road, Mohammadpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Purana Paltan, Motijheel, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,535   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Section 10, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Jamtola, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "West Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 880   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "West Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,355   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "Section 10, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Nurjahan Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,000",
+    "address": "South Badda, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Goaltek, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "East Rampura, Rampura, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "West Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,500",
+    "address": "Nurjahan Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "South Badda, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,420   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "East Rampura, Rampura, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Nurjahan Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,500",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,295   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Block B, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Faydabad, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Middle Badda, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "Section 10, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,500",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,000",
+    "address": "South Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Section 10, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Block C, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Nurjahan Road, Mohammadpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Faydabad, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Nurjahan Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "East Rampura, Rampura, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "West Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,500",
+    "address": "Nurjahan Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "South Badda, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,420   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "East Rampura, Rampura, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Nurjahan Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,500",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,295   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Block B, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Faydabad, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Middle Badda, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "Section 10, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,500",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,000",
+    "address": "South Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Section 10, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Block C, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Nurjahan Road, Mohammadpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Faydabad, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Nurjahan Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n29,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n32,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n70,000",
+    "address": "Block D, Bashundhara R-A, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 5",
+    "area": " 2,800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n55,000",
+    "address": "Road No 3, Dhanmondi, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,825   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,500",
+    "address": "East Monipur, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "West Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Block G, Bashundhara R-A, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Block D, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,690   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Section 10, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Nurjahan Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "East Monipur, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,450",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,143   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,015   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,800",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,015   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,135   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Section 10, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,500",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Section 13, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,500",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n55,000",
+    "address": "Road No 6, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n29,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n32,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n70,000",
+    "address": "Block D, Bashundhara R-A, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 5",
+    "area": " 2,800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n55,000",
+    "address": "Road No 3, Dhanmondi, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,825   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,500",
+    "address": "East Monipur, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "West Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Block G, Bashundhara R-A, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Block D, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,690   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Section 10, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Nurjahan Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "East Monipur, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,450",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,143   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,015   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,800",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,015   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,135   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Section 10, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,500",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Section 13, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,500",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n55,000",
+    "address": "Road No 6, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Road No 8, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n55,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Kazi Alauddin Road, Bangshal, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n90,000",
+    "address": "Road No 4, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n100,000",
+    "address": "Road No 4, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,905   Sq. Ft."
+  },
+  {
+    "price": "BDT\n80,000",
+    "address": "Road No 4, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,898   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Old Elephant Road, Maghbazar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Naya Bazar, Bangshal, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Section 10, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Section 10, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n21,000",
+    "address": "Nurjahan Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "PC Culture Housing, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "D.C RAY Road, Bangshal, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "Mir Hajirbag, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,500",
+    "address": "West Dolairpar, Shyampur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,200",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,000",
+    "address": "West Dolairpar, Shyampur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Shekhertek, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,500",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Road No 8, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n55,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Kazi Alauddin Road, Bangshal, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n90,000",
+    "address": "Road No 4, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n100,000",
+    "address": "Road No 4, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,905   Sq. Ft."
+  },
+  {
+    "price": "BDT\n80,000",
+    "address": "Road No 4, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,898   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Old Elephant Road, Maghbazar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Naya Bazar, Bangshal, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Section 10, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Section 10, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n21,000",
+    "address": "Nurjahan Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "PC Culture Housing, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "D.C RAY Road, Bangshal, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "Mir Hajirbag, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,500",
+    "address": "West Dolairpar, Shyampur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,200",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,000",
+    "address": "West Dolairpar, Shyampur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Shekhertek, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,500",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "West Dolairpar, Shyampur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Section 13, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,500",
+    "address": "Section 13, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n40,000",
+    "address": "Mirpur DOHS, Mirpur, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 5",
+    "area": " 2,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Naya Nagar , Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,500",
+    "address": "PC Culture Housing, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,450   Sq. Ft."
+  },
+  {
+    "price": "BDT\n150,000",
+    "address": "Block C, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Shekhertek, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,500",
+    "address": "Shekhertek, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,500",
+    "address": "Shekhertek, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Ahmed Nagar, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Block F, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Block G, Bashundhara R-A, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Naya Nagar , Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Naya Nagar , Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Middle Badda, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Uttar Badda, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,450   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Middle Badda, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Shekhertek, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Block H, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n36,000",
+    "address": "Panthapath Main Road, Kalabagan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,290   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "West Dolairpar, Shyampur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Section 13, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,500",
+    "address": "Section 13, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n40,000",
+    "address": "Mirpur DOHS, Mirpur, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 5",
+    "area": " 2,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Naya Nagar , Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,500",
+    "address": "PC Culture Housing, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,450   Sq. Ft."
+  },
+  {
+    "price": "BDT\n150,000",
+    "address": "Block C, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Shekhertek, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,500",
+    "address": "Shekhertek, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,500",
+    "address": "Shekhertek, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Ahmed Nagar, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Block F, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Block G, Bashundhara R-A, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Naya Nagar , Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Naya Nagar , Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Middle Badda, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Uttar Badda, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,450   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Middle Badda, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Shekhertek, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Block H, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n36,000",
+    "address": "Panthapath Main Road, Kalabagan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,290   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Naya Nagar , Khilkhet, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,500",
+    "address": "Naya Nagar , Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Block F, Bashundhara R-A, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 5",
+    "area": " 2,550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n36,000",
+    "address": "Block G, Bashundhara R-A, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "South Banasree Project, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n48,000",
+    "address": "Indira Road, Tejgaon, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,135   Sq. Ft."
+  },
+  {
+    "price": "BDT\n49,750",
+    "address": "Indira Road, Tejgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,120   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "Dakhshin Para, Mohakhali, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Block H, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,210   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "East Rampura, Rampura, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,196   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,500",
+    "address": "East Rampura, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "East Rampura, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Uttar Badda, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n52,000",
+    "address": "Indira Road, Tejgaon, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "West Dolairpar, Shyampur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "South Banasree Project, Banasree, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 3",
+    "area": " 1,800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n48,500",
+    "address": "Indira Road, Tejgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,000",
+    "address": "South Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Naya Nagar , Khilkhet, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,500",
+    "address": "Naya Nagar , Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Block F, Bashundhara R-A, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 5",
+    "area": " 2,550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n36,000",
+    "address": "Block G, Bashundhara R-A, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "South Banasree Project, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n48,000",
+    "address": "Indira Road, Tejgaon, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,135   Sq. Ft."
+  },
+  {
+    "price": "BDT\n49,750",
+    "address": "Indira Road, Tejgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,120   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "Dakhshin Para, Mohakhali, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Block H, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,210   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "East Rampura, Rampura, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,196   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,500",
+    "address": "East Rampura, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "East Rampura, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Uttar Badda, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n52,000",
+    "address": "Indira Road, Tejgaon, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "West Dolairpar, Shyampur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "South Banasree Project, Banasree, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 3",
+    "area": " 1,800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n48,500",
+    "address": "Indira Road, Tejgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,000",
+    "address": "South Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n49,000",
+    "address": "Indira Road, Tejgaon, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,160   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Panthapath Main Road, Kalabagan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Middle Badda, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,120   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n51,000",
+    "address": "Indira Road, Tejgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,275   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Indira Road, Tejgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n70,000",
+    "address": "Gulshan 2, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,224   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,420   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "West Dolairpar, Shyampur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "East Rampura Road, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,500",
+    "address": "Block G, Bashundhara R-A, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Uttar Badda, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Block C, Lalmatia, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,390   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n49,000",
+    "address": "Indira Road, Tejgaon, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,160   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Panthapath Main Road, Kalabagan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Middle Badda, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Road No 2, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,120   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n51,000",
+    "address": "Indira Road, Tejgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,275   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Indira Road, Tejgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n70,000",
+    "address": "Gulshan 2, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,224   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,420   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "West Dolairpar, Shyampur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "East Rampura Road, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,500",
+    "address": "Block G, Bashundhara R-A, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Uttar Badda, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Block C, Lalmatia, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,390   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n21,000",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Shekhertek, Mohammadpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n29,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "Borobag, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,500",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,280   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Abur Tek Road, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Monipur, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,800",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,426   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,800",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,202   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,800",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,426   Sq. Ft."
+  },
+  {
+    "price": "BDT\n21,000",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Shekhertek, Mohammadpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n29,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "Borobag, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,500",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,280   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Abur Tek Road, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Monipur, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,800",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,426   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,800",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,202   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,800",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,426   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n29,500",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,500",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Section 7, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n38,000",
+    "address": "Bir Uttam Samsul Alam Road, Kakrail, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Mirpur DOHS, Mirpur, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Nurer Chala, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,248   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "Nurer Chala, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,500",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n21,000",
+    "address": "Taltola, Khilgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Shiddheswari Lane, Shiddheswari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,500",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Raod No 10, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,270   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Salimullah Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n29,500",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,500",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Section 7, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n38,000",
+    "address": "Bir Uttam Samsul Alam Road, Kakrail, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Mirpur DOHS, Mirpur, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Nurer Chala, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,248   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "Nurer Chala, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,500",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n21,000",
+    "address": "Taltola, Khilgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Shiddheswari Lane, Shiddheswari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,500",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Raod No 10, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,270   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Salimullah Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "Dakhshin Para, Mohakhali, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,800",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,202   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Free School Street, Kathalbagan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "School Road, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Section 7, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Salimullah Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,500",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,500",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,500",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Rajarbag, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "Donia, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Gulshan 2, Gulshan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 2,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "East Rampura, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,500",
+    "address": "Salimullah Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n90,000",
+    "address": "Gulshan 2, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Adarsh Nagar Road, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "Dakhshin Para, Mohakhali, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,800",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,202   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Free School Street, Kathalbagan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "School Road, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Section 7, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Salimullah Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,500",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,500",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,500",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Rajarbag, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "Donia, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Gulshan 2, Gulshan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 2,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "East Rampura, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,500",
+    "address": "Salimullah Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n90,000",
+    "address": "Gulshan 2, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Adarsh Nagar Road, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Abur Tek Road, Khilkhet, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Abur Tek Road, Khilkhet, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Abur Tek Road, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Rajarbag, Bashabo, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,300",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,426   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Nurer Chala, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Rajarbag, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Section 7, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n67,000",
+    "address": "Road No 5, Dhanmondi, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 3,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Salimullah Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n29,000",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,000",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "Block B, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,500",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,500",
+    "address": "Block B, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Uttar Badda, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,010   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Nurer Chala, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Block D, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n33,000",
+    "address": "Block D, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Abur Tek Road, Khilkhet, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Abur Tek Road, Khilkhet, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Abur Tek Road, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Rajarbag, Bashabo, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,300",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,426   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Nurer Chala, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Rajarbag, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Section 7, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Gandaria, Sutrapur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n67,000",
+    "address": "Road No 5, Dhanmondi, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 3,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Salimullah Road, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n29,000",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,000",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "Block B, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,500",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,500",
+    "address": "Block B, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Uttar Badda, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,010   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Nurer Chala, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Block D, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n33,000",
+    "address": "Block D, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Road No 4, Dhanmondi, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Block B, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,275   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Lalmatia, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,030   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Rajia Sultana Road, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,500",
+    "address": "Donia, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n34,000",
+    "address": "Road No 1/A, Banani, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Nurer Chala, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Donia, Jatra Bari, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "Donia, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "Donia, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,500",
+    "address": "Donia, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Kutubkhali, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n6,000",
+    "address": "Donia, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Uttar Badda, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,600",
+    "address": "Talertek, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,545   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Katashur, Mohammadpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Block B, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Nurer Chala, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Road No 4, Dhanmondi, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Block B, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,275   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Lalmatia, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,030   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Rajia Sultana Road, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,500",
+    "address": "Donia, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n34,000",
+    "address": "Road No 1/A, Banani, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Nurer Chala, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Donia, Jatra Bari, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "Donia, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "Donia, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,500",
+    "address": "Donia, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Kutubkhali, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n6,000",
+    "address": "Donia, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Uttar Badda, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,600",
+    "address": "Talertek, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,545   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Katashur, Mohammadpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Block B, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Nurer Chala, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,425   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,000",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n32,000",
+    "address": "Block E, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n31,500",
+    "address": "Block E, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Block E, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n37,000",
+    "address": "New Baily Road, Shiddheswari, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Pallabi, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,450   Sq. Ft."
+  },
+  {
+    "price": "BDT\n55,000",
+    "address": "Block A, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 3,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Block E, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,500",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Block D, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,690   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Block J, Baridhara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "Katashur, Mohammadpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n32,000",
+    "address": "Block D, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,690   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 1,800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "Talertek, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,600",
+    "address": "Mollartek, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "West Nakhalpara, Tejgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Tikatuli, Sutrapur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Narinda, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Rayer Bazaar, Hazaribag, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,500",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,500",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,425   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,000",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n32,000",
+    "address": "Block E, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n31,500",
+    "address": "Block E, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Block E, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n37,000",
+    "address": "New Baily Road, Shiddheswari, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Pallabi, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,450   Sq. Ft."
+  },
+  {
+    "price": "BDT\n55,000",
+    "address": "Block A, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 3,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Block E, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,500",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Block D, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,690   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Block J, Baridhara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "Katashur, Mohammadpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n32,000",
+    "address": "Block D, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,690   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 1,800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "Talertek, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,600",
+    "address": "Mollartek, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "West Nakhalpara, Tejgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Tikatuli, Sutrapur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Narinda, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Rayer Bazaar, Hazaribag, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,500",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,500",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n33,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n150,000",
+    "address": "Gulshan 2, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,500",
+    "address": "Shekhertek, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Pallabi, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Narinda, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Talertek, Khilkhet, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Pallabi, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,080   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Block B, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "K.M. Das Lane, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n200,000",
+    "address": "Gulshan 2, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 5",
+    "area": " 3,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Shekhertek, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Pallabi, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,710   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Narinda, Sutrapur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Talertek, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Malibag Bazar Rd, Malibagh, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,500",
+    "address": "Vatara, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Middle Monipur, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n33,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n150,000",
+    "address": "Gulshan 2, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "Sector 12, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,500",
+    "address": "Shekhertek, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Pallabi, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Narinda, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Talertek, Khilkhet, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Pallabi, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,080   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Block B, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "K.M. Das Lane, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n200,000",
+    "address": "Gulshan 2, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 5",
+    "area": " 3,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Shekhertek, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Pallabi, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Sector 14, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,710   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Narinda, Sutrapur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Talertek, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Malibag Bazar Rd, Malibagh, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,500",
+    "address": "Vatara, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Middle Monipur, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,500",
+    "address": "Block B, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,900",
+    "address": "Mollartek, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,500",
+    "address": "PC Culture Housing, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,450   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Tikatuli, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "Talertek, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 820   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "Bibir Bagicha, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,000",
+    "address": "Malibag Bazar Rd, Malibagh, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,306   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "East Monipur, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,800",
+    "address": "Mollartek, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,200",
+    "address": "Mollartek, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,400",
+    "address": "Mollartek, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,200",
+    "address": "Mollartek, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,300",
+    "address": "Mollartek, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "West Nakhalpara, Tejgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Road No 4, Shyamoli, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,450   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Road No 4, Shyamoli, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 725   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Bibir Bagicha, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,500",
+    "address": "Talertek, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,500",
+    "address": "PC Culture Housing, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Jigatola, Hazaribag, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "East Monipur, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "PC Culture Housing, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Malibag Bazar Rd, Malibagh, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,500",
+    "address": "West Nakhalpara, Tejgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,500",
+    "address": "Uttar Badda, Badda, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Malibag Bazar Rd, Malibagh, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Middle Monipur, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Malibag Bazar Rd, Malibagh, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "Malibag Bazar Rd, Malibagh, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Malibag Bazar Rd, Malibagh, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Kosai Bari, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Block A, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Nurer Chala, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Mohammadia Housing Society, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Block A, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,500",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "West Nakhalpara, Tejgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Pallabi, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,075   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Pallabi, Mirpur, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 5",
+    "area": " 2,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Kosai Bari, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,500",
+    "address": "Middle Monipur, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "Uttar Badda, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,500",
+    "address": "Bibir Bagicha, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,500",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n70,000",
+    "address": "Road No 7, Dhanmondi, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,450   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n21,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,500",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Uttar Badda, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Middle Monipur, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Middle Monipur, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "Bibir Bagicha, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,500",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "PC Culture Housing, Mohammadpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Borobag, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Block A, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,430   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "North Kafrul Rd, Kafrul, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n38,000",
+    "address": "Sector 7, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Rayer Bazaar, Hazaribag, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "East Shewrapara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n175,000",
+    "address": "Gulshan 2, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,977   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,500",
+    "address": "North Kafrul Road, Ibrahimpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,500",
+    "address": "North Kafrul Road, Ibrahimpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Block A, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,520   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Block A, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Block A, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Block A, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Sector 7, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Gulshan 2, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n70,000",
+    "address": "Gulshan 2, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 3,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "South Baridhara Residential Area,D.I.T. Project, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "South Kafrul Road, Kafrul, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "Borobag, Mirpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "South Kafrul Road, Kafrul, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Rayer Bazaar, Hazaribag, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "South Kafrul Road, Kafrul, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Wari, Sutrapur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Pallabi, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Section 2, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "South Kafrul Road, Kafrul, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "West Jatrabari, Jatra Bari, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,500",
+    "address": "PC Culture Housing Society, Shyamoli, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,500",
+    "address": "West Jatrabari, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "West Nakhalpara, Tejgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "New Eskaton Road, Eskaton, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,000",
+    "address": "Pallabi, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Narinda, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "Narinda, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Namapara, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,060   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,500",
+    "address": "North Jatra Bari, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Panirpump Rd, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Panirpump Rd, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Free School Street, Kathalbagan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Block B, Aftab Nagar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Borobag, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,085   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Nurer Chala, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Pallabi, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Nobodoy Housing Society, Mohammadpur, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Block A, Aftab Nagar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Sector 7, Uttara, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 1,854   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "Rayer Bazaar, Hazaribag, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Sector 7, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,575   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,500",
+    "address": "Nobodoy Housing Society, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "Rajabazar, Tejgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Pallabi, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,500",
+    "address": "Wasa Road, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,500",
+    "address": "Wasa Road, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Section 2, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Section 2, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Free School Street, Kathalbagan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Nobodoy Housing Society, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "West Jatrabari, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Rayer Bazaar, Hazaribag, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Pallabi, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Free School Street, Kathalbagan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n38,000",
+    "address": "Humayun Road, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,365   Sq. Ft."
+  },
+  {
+    "price": "BDT\n45,000",
+    "address": "Block A, Bashundhara R-A, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,268   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Nurer Chala, Badda, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "Rajabazar, Tejgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Indira Road, Tejgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n230,000",
+    "address": "Gulshan 2, Gulshan, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 3,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,500",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,500",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Nayatola, Maghbazar, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "South Jatra Bari, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "West Jatrabari, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,500",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "West Jatrabari, Jatra Bari, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Nobodoy Housing Society, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 820   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Nobodoy Housing Society, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 820   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Section 2, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Pallabi, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Nobodoy Housing Society, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "South Baridhara Residential Area,D.I.T. Project, Badda, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 1,440   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Sector 7, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n40,000",
+    "address": "Sector 7, Uttara, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n36,000",
+    "address": "Sector 7, Uttara, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "West Kafrul, Taltola, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Section 2, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Block A, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "South Baridhara Residential Area,D.I.T. Project, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "Narinda, Sutrapur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Nobodoy Housing Society, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "South Baridhara Residential Area,D.I.T. Project, Badda, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Borobag, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Block I, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,285   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Block G, Bashundhara R-A, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Siddique Bazar, Bangshal, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,440   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Siddique Bazar, Bangshal, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,250   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,000",
+    "address": "Siddique Bazar, Bangshal, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Siddique Bazar, Bangshal, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Nayatola, Maghbazar, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,500",
+    "address": "Block G, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,500",
+    "address": "Block G, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n36,000",
+    "address": "Block G, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,000",
+    "address": "Block G, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n35,400",
+    "address": "Block G, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Namapara, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "PC Culture Housing, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n40,000",
+    "address": "Bakshi Bazar, Lalbagh, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,000",
+    "address": "Sharkar Bari Road , Nadda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Rajabazar, Tejgaon, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "South Baridhara Residential Area,D.I.T. Project, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Road No 10A, Dhanmondi, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Azimpur Road, Lalbagh, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n5,500",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 450   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,500",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n80,000",
+    "address": "Sector 7, Uttara, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n40,000",
+    "address": "Block A, Lalmatia, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,245   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Lake City Concord, Khilkhet, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,370   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,500",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,500",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,600",
+    "address": "PC Culture Housing, Mohammadpur, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Section 13, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Tilpapara, Khilgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "North Goran, Khilgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Section 13, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n6,000",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Tilpapara, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n110,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,340   Sq. Ft."
+  },
+  {
+    "price": "BDT\n120,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,425   Sq. Ft."
+  },
+  {
+    "price": "BDT\n40,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n130,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,530   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "Section 13, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Tilpapara, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Section 13, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Tilpapara, Khilgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "North Goran, Khilgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n27,000",
+    "address": "Sector 10, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Section 13, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n6,000",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Tilpapara, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n110,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,340   Sq. Ft."
+  },
+  {
+    "price": "BDT\n120,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,425   Sq. Ft."
+  },
+  {
+    "price": "BDT\n40,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n130,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,530   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "Section 13, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Tilpapara, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n260,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n250,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Police Fari road, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n65,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,450   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "North Ibrahimpur, Ibrahimpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Police Fari road, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 980   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 980   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "West Kafrul, Taltola, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,500",
+    "address": "West Jatrabari, Jatra Bari, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "West Jatrabari, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,500",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,500",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n260,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n250,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Police Fari road, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n65,000",
+    "address": "Gulshan 1, Gulshan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,450   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "North Ibrahimpur, Ibrahimpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Police Fari road, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n26,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 980   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 980   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "West Kafrul, Taltola, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,500",
+    "address": "West Jatrabari, Jatra Bari, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "West Jatrabari, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,500",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,500",
+    "address": "Block D, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "South Baridhara Residential Area,D.I.T. Project, Badda, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "South Baridhara Residential Area,D.I.T. Project, Badda, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n70,000",
+    "address": "Sector 7, Uttara, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,500",
+    "address": "Tilpapara, Khilgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "West Jatrabari, Jatra Bari, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Block B, Lalmatia, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,445   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Gawair, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,500",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,500",
+    "address": "Pirerbag, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n55,000",
+    "address": "Sector 4, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Sector 4, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "PC Culture Housing, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Road No 1, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Road No 1, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Road No 8A, Dhanmondi, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Road No 1, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Block C, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n6,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n5,700",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "South Baridhara Residential Area,D.I.T. Project, Badda, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "South Baridhara Residential Area,D.I.T. Project, Badda, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n70,000",
+    "address": "Sector 7, Uttara, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 4",
+    "area": " 2,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n22,500",
+    "address": "Tilpapara, Khilgaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "West Jatrabari, Jatra Bari, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Block B, Lalmatia, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,445   Sq. Ft."
+  },
+  {
+    "price": "BDT\n19,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n23,000",
+    "address": "Ashkona, Dakshin Khan, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Gawair, Dakshin Khan, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,500",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,500",
+    "address": "Pirerbag, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n55,000",
+    "address": "Sector 4, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,500   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Sector 4, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "PC Culture Housing, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Road No 1, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Road No 1, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n30,000",
+    "address": "Road No 8A, Dhanmondi, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Road No 1, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Block C, Banasree, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n6,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 550   Sq. Ft."
+  },
+  {
+    "price": "BDT\n5,700",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "West Nakhalpara, Tejgaon, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "South Baridhara Residential Area,D.I.T. Project, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Road No 1, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Kalachandpur Main Road , Kalachandpur , Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Pirerbag, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "South Baridhara Residential Area,D.I.T. Project, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Block F, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "Namapara, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Sector 11, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,670   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "New Eskaton Road, Eskaton, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 1",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "Kalachandpur Main Road , Kalachandpur , Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Kalachandpur Main Road , Kalachandpur , Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,500",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Pirerbag, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n78,000",
+    "address": "Block K, Baridhara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Kamal Soroni Road, Agargaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 930   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "Kalachandpur School Road , Kalachandpur , Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "PC Culture Housing, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,000",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Road No 1, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "West Nakhalpara, Tejgaon, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 350   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "South Baridhara Residential Area,D.I.T. Project, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Sector 13, Uttara, Dhaka",
+    "bedrooms": " 1",
+    "bathrooms": " 1",
+    "area": " 600   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Road No 1, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Kalachandpur Main Road , Kalachandpur , Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Pirerbag, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "South Baridhara Residential Area,D.I.T. Project, Badda, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 720   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Block F, Bashundhara R-A, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,000",
+    "address": "Namapara, Khilkhet, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Sector 11, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 1,670   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "New Eskaton Road, Eskaton, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 1",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "Kalachandpur Main Road , Kalachandpur , Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n12,000",
+    "address": "Kalachandpur Main Road , Kalachandpur , Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,500",
+    "address": "Section 6, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Pirerbag, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n78,000",
+    "address": "Block K, Baridhara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "Kamal Soroni Road, Agargaon, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 930   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,500",
+    "address": "Kalachandpur School Road , Kalachandpur , Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "PC Culture Housing, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 800   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "West Rampura, Rampura, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n7,000",
+    "address": "Section 12, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n60,000",
+    "address": "Road No 1, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 2,000   Sq. Ft."
+  },
+  {
+    "price": "BDT\n70,000",
+    "address": "Road No 7B, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 3",
+    "area": " 2,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Sector 11, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Sher-E-Bangla Road, Dhanmondi, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "West Dhanmondi and Shangkar, Dhanmondi, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Sher-E-Bangla Road, Dhanmondi, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Sector 11, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Doctor Goli, Maghbazar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Nobodoy Housing Society, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "West Dhanmondi and Shangkar, Dhanmondi, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,500",
+    "address": "Nobodoy Housing Society, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Sector 11, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,500",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,025   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Kallyanpur, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "Bibir Bagicha, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Bibir Bagicha, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Mohammadia Housing Society, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n70,000",
+    "address": "Road No 7B, Banani, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 4",
+    "area": " 2,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,400   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n50,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 4",
+    "bathrooms": " 3",
+    "area": " 2,300   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Sector 11, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n25,000",
+    "address": "Sher-E-Bangla Road, Dhanmondi, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n10,000",
+    "address": "West Dhanmondi and Shangkar, Dhanmondi, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n28,000",
+    "address": "Sher-E-Bangla Road, Dhanmondi, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n18,000",
+    "address": "Sector 11, Uttara, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 950   Sq. Ft."
+  },
+  {
+    "price": "BDT\n20,000",
+    "address": "Doctor Goli, Maghbazar, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Nobodoy Housing Society, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n13,000",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 750   Sq. Ft."
+  },
+  {
+    "price": "BDT\n24,000",
+    "address": "West Dhanmondi and Shangkar, Dhanmondi, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,200   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,500",
+    "address": "Nobodoy Housing Society, Mohammadpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 3",
+    "area": " 1,050   Sq. Ft."
+  },
+  {
+    "price": "BDT\n15,000",
+    "address": "Sector 11, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 900   Sq. Ft."
+  },
+  {
+    "price": "BDT\n17,000",
+    "address": "Sector 5, Uttara, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 3",
+    "area": " 1,100   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,500",
+    "address": "Goran, Khilgaon, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 1,025   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "East Bashabo, Bashabo, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  },
+  {
+    "price": "BDT\n14,000",
+    "address": "Kallyanpur, Mirpur, Dhaka",
+    "bedrooms": " 3",
+    "bathrooms": " 2",
+    "area": " 1,150   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n9,000",
+    "address": "Bibir Bagicha, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n11,000",
+    "address": "Bibir Bagicha, Jatra Bari, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 700   Sq. Ft."
+  },
+  {
+    "price": "BDT\n8,500",
+    "address": "East Kazipara, Mirpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 1",
+    "area": " 650   Sq. Ft."
+  },
+  {
+    "price": "BDT\n16,000",
+    "address": "Mohammadia Housing Society, Mohammadpur, Dhaka",
+    "bedrooms": " 2",
+    "bathrooms": " 2",
+    "area": " 850   Sq. Ft."
+  }
+]

@@ -5,14 +5,15 @@ let scrape = async () => {
     const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
 
-    await page.goto('https://www.bproperty.com/en/dhaka/apartments-for-rent/');
+    await page.goto('https://www.bproperty.com/en/dhaka/apartments-for-rent/page-237');
 
     var results = []; // variable to hold collection of all book titles and prices
-    var lastPageNumber = 2; // this is hardcoded last catalogue page, you can set it dunamically if you wish
+    var lastPageNumber = 25; // this is hardcoded last catalogue page, you can set it dunamically if you wish
     // defined simple loop to iterate over number of catalogue pages
     for (let index = 0; index < lastPageNumber; index++) {
         // wait 1 sec for page load
-        await page.waitFor(5000);
+        await page.waitFor(3000);
+        console.log(index);
         // call and wait extractedEvaluateCall and concatenate results every iteration.
         // You can use results.push, but will get collection of collections at the end of iteration
         results = results.concat(await extractedEvaluateCall(page));
@@ -31,6 +32,7 @@ let scrape = async () => {
 async function extractedEvaluateCall(page) {
     // just extracted same exact logic in separate function
     // this function should use async keyword in order to work and take page as argument
+    
     return page.evaluate(() => {
         let data = [];
         let elements = document.querySelectorAll('.right.card-content');
@@ -58,7 +60,7 @@ scrape().then((value) => {
   //   console.log(value[0]);
   //   console.log(value[value.length - 1]);
   fs.writeFile(
-    './haloom.json',
+    './Dataset260.json',
     JSON.stringify(value, null, 2),
     (err) => err ? console.error('Data not written') : console.log('Data Written successfully')
     )
